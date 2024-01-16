@@ -1,25 +1,4 @@
-body{
-    background-color:white;
-}
-#first{
-    background-color: white;
-}
-.bgblue{
-    background-color: blue;
-}
-#second{
-    background-color: green;
-}
-#first{
-    color:green;
-    
-    background:aqua;
-}
-P{
-    background:skyblue;
-}
-#bg sky{
-    background: skyblue;
-    margin:0;
-    padding:0;
+.red{
+   color: red;
+   background : white;
 }
