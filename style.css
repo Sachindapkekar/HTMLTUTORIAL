@@ -1,3 +1,28 @@
 body{
     color: black;
 }
+#google{
+    height:100px;
+}
+#first{
+    height: 100px;
+    margin: 0;
+    padding: 0;
+   
+}
+#second{
+    width: 60px;
+    margin: 0;
+    padding: 0;
+   
+}
+#third{
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+#fourth{
+    width:100px;
+    margin: 0;
+    padding: 0;
+}
